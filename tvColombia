@@ -21,6 +21,7 @@ http://209.45.95.18:8000/play/a00h
 http://209.45.95.18:8000/play/a00t
 #EXTINF:-1,Caracol
 http://200.41.79.165:8000/play/a005/index.m3u8
+
 #EXTINF:-1,Caracol HD
 http://200.41.79.165:8000/play/a0jk/index.m3u8
 #EXTINF:-1,Canal Institucional
@@ -29,6 +30,7 @@ http://200.41.79.165:8000/play/a008/index.m3u8
 http://200.110.169.237:8202/play/a039
 #EXTINF:-1,Canal uno
 http://200.41.79.165:8000/play/a003/index.m3u8
+
 #EXTINF:-1,Canal Claro
 http://209.45.95.18:8000/play/a02v
 #EXTINF:-1,Canal de Las estrellas
@@ -107,12 +109,15 @@ http://209.45.95.18:8000/play/a04e
 http://209.45.95.18:8000/play/a02b
 #EXTINF:-1,FX HD
 http://209.45.95.18:8000/play/a05f
+
 #EXTINF:-1,Fox Sports 1
 http://209.45.95.18:8000/play/a033
 #EXTINF:-1,Fox Sports 2
 http://209.45.95.18:8000/play/a023
 #EXTINF:-1,Fox Sports 3
 http://209.45.95.18:8000/play/a024
+#EXTINF:-1,GamaTV
+http://200.110.169.237:8202/play/a054
 #EXTINF:-1,GOL TV
 http://200.41.79.165:8000/play/a05u/index.m3u8
 #EXTINF:-1,France 24
@@ -165,6 +170,7 @@ http://209.45.95.18:8000/play/a07d
 http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
 #EXTINF:-1,El Gourmet 
 http://tv.teleclub.xyz/stream/Cultura/EL_GOURMET/index.m3u8
+
 #EXTINF:-1,Nick Jr
 http://209.45.95.18:8000/play/a02j
 #EXTINF:-1,Nickelodeon
@@ -209,6 +215,7 @@ http://200.41.79.165:8000/play/a059/index.m3u8
 http://209.45.95.18:8000/play/a04g
 #EXTINF:-1,TRO
 http://200.41.79.165:8000/play/a00e/index.m3u8
+
 #EXTINF:-1,TV Peru
 http://209.45.95.18:8000/play/a034
 #EXTINF:-1,TVE
@@ -225,6 +232,7 @@ http://200.41.79.165:8000/play/a04p/index.m3u8
 http://200.41.79.165:8000/play/a0hy/index.m3u8
 #EXTINF:-1,Teleislas
 http://200.41.79.165:8000/play/a00f/index.m3u8
+
 #EXTINF:-1,Telemundo
 http://209.45.95.18:8000/play/a025
 #EXTINF:-1,Telenovelas
